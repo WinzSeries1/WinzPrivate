@@ -1,6 +1,6 @@
 {
   "saldoUsers": {
-    "6460179311": 9999
+    "6460179311": 9799
   },
   "aksesGroups": [
     -1002626189403,
@@ -8,9 +8,9 @@
     -1002578598251
   ],
   "stats": {
-    "sukses": 0,
+    "sukses": 3,
     "gagal": 0,
-    "total": 0
+    "total": 3
   },
   "groupSettings": {}
 }
