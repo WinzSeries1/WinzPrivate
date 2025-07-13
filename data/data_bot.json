@@ -1,25 +1,14 @@
 {
-  "saldoUsers": {
-    "6460179311": 9599
-  },
-  "aksesGroups": [
-    -1002626189403,
-    -1002549398415,
-    -1002578598251,
-    -1002605850982,
-    -1002793003727,
-    -1002885186014,
-    -4985212403
-  ],
+  "saldoUsers": {},
+  "aksesGroups": [],
   "stats": {
-    "sukses": 10,
+    "sukses": 0,
     "gagal": 0,
-    "total": 10
+    "total": 0
   },
   "groupSettings": {
     "-1002783937326": {
-      "antilink": true,
-      "antipromosi": true
+      "antilink": true
     }
   }
 }
