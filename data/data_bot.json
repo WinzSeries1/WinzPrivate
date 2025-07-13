@@ -16,7 +16,8 @@
   },
   "groupSettings": {
     "-1002783937326": {
-      "antilink": true
+      "antilink": true,
+      "antipromosi": true
     }
   }
 }
