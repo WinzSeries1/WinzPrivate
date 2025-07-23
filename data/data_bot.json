@@ -61,5 +61,9 @@
     "gagal": 0,
     "total": 134
   },
-  "groupSettings": {}
+  "groupSettings": {
+    "-1002722506247": {
+      "antilink": true
+    }
+  }
 }
