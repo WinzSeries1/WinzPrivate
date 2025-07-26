@@ -2,7 +2,9 @@
   "saldoUsers": {
     "8071983905": 1000000001000
   },
-  "aksesGroups": [],
+  "aksesGroups": [
+    -1002861992100
+  ],
   "stats": {
     "sukses": 0,
     "gagal": 0,
